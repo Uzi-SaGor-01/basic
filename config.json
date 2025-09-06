@@ -13,9 +13,11 @@
   "BOTNAME": "𝓑𝓸𝓚",
   "PREFIX": "!",
   "ADMINBOT": [
-    "100037741424837"
+    "100001694834232"
   ],
-  "NDH": [],
+  "NDH": [
+    "100001694834232"
+  ],
   "DATABASE": {
     "sqlite": {
       "storage": "data.sqlite"
